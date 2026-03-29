@@ -23,7 +23,7 @@
 		"head_model": "user://save/custom_cogs/elnina.glb",
 		"head_textures": [],
 		"status_effects": [
-			"res://objects/battle/battle_resources/status_effects/resources/mod_cog_asset_protection.tress",
+			"res://objects/battle/battle_resources/status_effects/resources/mod_cog_asset_protection.tres",
 			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
 		]
 	},
