@@ -1,0 +1,43 @@
+{
+	"battle_phrases": [
+		"Ready for some fun buddy?",
+		"Everyday is Christmas!",
+		"I have no clue about you from the tip of my red nose."
+	],
+	"can_speak": true,
+	"cog_name": "Rudie",
+	"custom_nametag_height": 12.0,
+	"custom_nametag_suffix": "Omnipotent",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pick_pocket.tres"
+		],
+		"baked_status_effects": [],
+		"custom_arm_tex": "res://models/cogs/textures/slender/sleeve.png",
+		"custom_blazer_tex": "res://models/cogs/textures/slender/blazer.png",
+		"custom_leg_tex": "res://models/cogs/textures/slender/leg.png",
+		"head_model": "user://save/custom_cogs/Rudie.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "735239ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 3.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 10,
+	"level_low": 5,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 3.5,
+	"suit": 1
+}

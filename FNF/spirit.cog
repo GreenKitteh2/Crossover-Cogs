@@ -1,0 +1,41 @@
+{
+	"battle_phrases": [
+		"I don't like it when people compare me to Giygas.",
+		"I need to switch bodies, you would make an example."
+	],
+	"cog_name": "Spirit",
+	"custom_nametag_height": 12.6,
+	"custom_nametag_suffix": "",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/shake.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/quake.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/tremor.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres"
+		],
+		"custom_arm_tex": "res://models/cogs/textures/slender/sleeve.png",
+		"custom_blazer_tex": "res://models/cogs/textures/slender/blazer.png",
+		"custom_leg_tex": "res://models/cogs/textures/slender/leg.png",
+		"head_model": "user://save/custom_cogs/spirit.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "f83c68ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 4,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 5.6,
+	"suit": 1
+}

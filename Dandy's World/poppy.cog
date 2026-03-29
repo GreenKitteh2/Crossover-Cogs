@@ -1,0 +1,40 @@
+{
+	"battle_phrases": [
+		"You can do this Poppy!",
+		"I'm ready!",
+		"A battle?!"
+	],
+	"can_speak": true,
+	"cog_name": "Poppy",
+	"custom_nametag_height": 12.0,
+	"custom_nametag_suffix": "",
+	"department": 1,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/hang_up.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pick_pocket.tres"
+		],
+		"baked_status_effects": [],
+		"custom_arm_tex": "res://models/cogs/textures/misc/sleeve_2.png",
+		"custom_blazer_tex": "res://models/cogs/textures/misc/blazer_1.png",
+		"custom_leg_tex": "res://models/cogs/textures/misc/leg_4.png",
+		"head_model": "user://save/custom_cogs/Poppy.glb",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "91ffffff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 13,
+	"level_low": 1,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 3.5,
+	"suit": 1
+}

@@ -1,0 +1,50 @@
+{
+	"battle_phrases": [
+		"Everything is a mess.",
+		"You create nothing but messes.",
+		"Must...clean..."
+	],
+	"can_speak": true,
+	"cog_name": "Twisted Tisha",
+	"custom_nametag_height": 11.5,
+	"custom_nametag_suffix": "Boss Cog",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/freeze_assets.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pink_slip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/liquidate.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/guilt_trip.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/Dandy's World/custom_suits/twisted_tisha_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/Dandy's World/custom_suits/twisted_tisha_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/Dandy's World/custom_suits/twisted_tisha_leg.png",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/dandys_world.png",
+		"head_model": "user://save/custom_cogs/Twisted Tisha.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/attentive.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/tenure_status.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "a7dedcff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 5.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 15,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 3.5,
+	"suit": 1
+}

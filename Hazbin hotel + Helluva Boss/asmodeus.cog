@@ -1,0 +1,39 @@
+{
+	"battle_phrases": [
+		"Try to face me, I'm one handsome devil.",
+		"I was going to have Blitz take care of you but fine."
+	],
+	"cog_name": "Asmodeus",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/evil_eye.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/brain_storm.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/razzle_dazzle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/tee_off.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres"
+		],
+		"custom_arm_tex": "res://models/cogs/textures/misc/sleeve_2.png",
+		"custom_blazer_tex": "res://models/cogs/textures/misc/blazer_1.png",
+		"custom_leg_tex": "res://models/cogs/textures/misc/leg_4.png",
+		"head_model": "user://save/custom_cogs/ozzie.glb",
+		"head_textures": []
+	},
+	"hand_color": "232163ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 12,
+	"level_low": 8,
+	"name_plural": "Asmodeuses",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 7.9,
+	"suit": 0
+}

@@ -1,0 +1,41 @@
+{
+	"battle_phrases": [
+		"Hurry it up, I don't have much time.",
+		"Not on my watch.",
+		"I have a train to run."
+	],
+	"can_speak": true,
+	"cog_name": "Dyle",
+	"custom_nametag_height": 11.0,
+	"custom_nametag_suffix": "",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/pound_key.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/freeze_assets.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/clip_on_tie.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/hang_up.tres"
+		],
+		"baked_status_effects": [],
+		"custom_arm_tex": "res://models/cogs/textures/misc/sleeve_2.png",
+		"custom_blazer_tex": "res://models/cogs/textures/misc/blazer_1.png",
+		"custom_leg_tex": "res://models/cogs/textures/misc/leg_4.png",
+		"head_model": "user://save/custom_cogs/Dyle.glb",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "ba9b6aff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(0.74, 0.74, 0.74)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 8,
+	"level_low": 4,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 3.5,
+	"suit": 1
+}

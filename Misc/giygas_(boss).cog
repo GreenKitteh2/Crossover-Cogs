@@ -1,0 +1,58 @@
+{
+	"battle_phrases": [
+		"Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon.....",
+		"…I’m h…a…p…p…y…",
+		"…It hurts, …it hurts…",
+		"It hurts, Toon…",
+		"I feel… g… o… o… d…",
+		"It’s not right… not right… not right...",
+		"Please just... Toon",
+		"Toon!",
+		"…I’m so sad... …..Toon",
+		"…friends…",
+		"…go… b… a… c…k…",
+		"Ah, Grrr, Ohhh…",
+		"Argh… Yaaagh!…"
+	],
+	"cog_name": "Giygas",
+	"custom_nametag_height": 8.8,
+	"custom_nametag_suffix": "Boss Cog",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/evil_eye.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/tee_off.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/Misc/custom_suits/giygas_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/Misc/custom_suits/giygas_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/Misc/custom_suits/giygas_leg.png",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/earthbound.png",
+		"head_model": "res://models/cogs/heads/yesman.glb",
+		"head_textures": [
+			"user://save/custom_cogs/Giygas.png"
+		],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/attentive.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/tenure_status.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "a20012ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 5.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 12,
+	"name_plural": "Giygases",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 8.0,
+	"suit": 0
+}

@@ -1,0 +1,45 @@
+{
+	"battle_phrases": [
+		"I work for Giygas's army.",
+		"I have affiliations with a certain skeleton.",
+		"We're here to help OUR future."
+	],
+	"can_speak": true,
+	"cog_name": "Final Starman",
+	"custom_nametag_height": 9.2,
+	"custom_nametag_suffix": "Minion",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/tee_off.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/rubber_stamp.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/brain_storm.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/freeze_assets.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/razzle_dazzle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres"
+		],
+		"baked_status_effects": [],
+		"custom_arm_tex": "user://save/custom_cogs/Misc/custom_suits/finalstarman_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/Misc/custom_suits/finalstarman_blazer.png",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/earthbound.png",
+		"custom_leg_tex": "user://save/custom_cogs/Misc/custom_suits/finalstarman_leg.png",
+		"head_model": "user://save/custom_cogs/gold starman.glb",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "ffed0aff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(0.72, 0.72, 0.72)",
+	"health_mod": 1.5,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 11,
+	"level_low": 8,
+	"name_plural": "Final Starmen",
+	"name_prefix": "Final",
+	"name_suffix": "Starman",
+	"scale": 6.0,
+	"suit": 0
+}

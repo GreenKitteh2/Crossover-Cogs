@@ -1,0 +1,46 @@
+{
+	"battle_phrases": [
+		"I know i'm scared of hurting a human, so you'll make a test dummy I guess.",
+		"Don't you dare call me a possum!"
+	],
+	"cog_name": "Moxxie",
+	"custom_nametag_height": 8.7,
+	"custom_nametag_suffix": "Boss Cog",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/write_off.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pound_key.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/clip_on_tie.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/Hazbin hotel + Helluva Boss/custom_suits/moxxie_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/Hazbin hotel + Helluva Boss/custom_suits/moxxie_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/Hazbin hotel + Helluva Boss/custom_suits/moxxie_leg.png",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/helluva_boss.png",
+		"head_model": "user://save/custom_cogs/moxxie.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/attentive.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/tenure_status.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/mod_cog_fire_sale.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "f3454dff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 5.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 5.4,
+	"suit": 1
+}

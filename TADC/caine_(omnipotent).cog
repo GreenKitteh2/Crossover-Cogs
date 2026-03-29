@@ -1,0 +1,43 @@
+{
+	"battle_phrases": [
+		"Lookie here! We got ourselves a new NPC for our adventure!",
+		"Oh hi! we're on a new adventure!"
+	],
+	"cog_name": "Caine",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "Omnipotent",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/pop_quiz_math.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/tee_off.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/razzle_dazzle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/clip_on_tie.tres"
+		],
+		"custom_arm_tex": "res://models/cogs/textures/slender/sleeve.png",
+		"custom_blazer_tex": "res://models/cogs/textures/slender/blazer.png",
+		"custom_leg_tex": "res://models/cogs/textures/slender/leg.png",
+		"head_model": "user://save/custom_cogs/caine.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "ffffffff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 3.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 10,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 5.55,
+	"suit": 0
+}

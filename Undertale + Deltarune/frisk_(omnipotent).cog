@@ -1,0 +1,39 @@
+{
+	"battle_phrases": [
+		"..."
+	],
+	"cog_name": "Frisk",
+	"custom_nametag_height": 8.7,
+	"custom_nametag_suffix": "Omnipotent",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/brain_storm.tres"
+		],
+		"custom_arm_tex": "res://models/cogs/textures/slender/sleeve.png",
+		"custom_blazer_tex": "res://models/cogs/textures/slender/blazer.png",
+		"custom_leg_tex": "res://models/cogs/textures/slender/leg.png",
+		"head_model": "user://save/custom_cogs/frisk.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/mod_cog_insured.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "f8c808ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 3.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 6,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 3.95,
+	"suit": 1
+}

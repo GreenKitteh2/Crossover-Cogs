@@ -1,0 +1,43 @@
+{
+	"battle_phrases": [
+		"Fear not fellow Cogs! I, The Great Papyrus! Will sack this fellow Toon!",
+		"Nyeheheheheheheheh!",
+		"Prepare to be captured fellow Toon!"
+	],
+	"cog_name": "Papyrus",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "Omnipotent",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/freeze_assets.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/razzle_dazzle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_tie.tres"
+		],
+		"custom_arm_tex": "res://models/cogs/textures/slender/sleeve.png",
+		"custom_blazer_tex": "res://models/cogs/textures/slender/blazer.png",
+		"custom_leg_tex": "res://models/cogs/textures/slender/leg.png",
+		"head_model": "user://save/custom_cogs/papyrus.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "e5ebe5ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 3.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 8,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 5.95,
+	"suit": 0
+}

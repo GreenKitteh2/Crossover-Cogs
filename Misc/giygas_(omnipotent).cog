@@ -1,0 +1,55 @@
+{
+	"battle_phrases": [
+		"Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon, Toon.....",
+		"…I’m h…a…p…p…y…",
+		"…It hurts, …it hurts…",
+		"It hurts, Toon…",
+		"I feel… g… o… o… d…",
+		"It’s not right… not right… not right...",
+		"Please just... Toon",
+		"Toon!",
+		"…I’m so sad... …..Toon",
+		"…friends…",
+		"…go… b… a… c…k…",
+		"Ah, Grrr, Ohhh…",
+		"Argh… Yaaagh!…"
+	],
+	"cog_name": "Giygas",
+	"custom_nametag_height": 8.8,
+	"custom_nametag_suffix": "Omnipotent",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/evil_eye.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/tee_off.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres"
+		],
+		"custom_arm_tex": "res://models/cogs/textures/slender/sleeve.png",
+		"custom_blazer_tex": "res://models/cogs/textures/slender/blazer.png",
+		"custom_leg_tex": "res://models/cogs/textures/slender/leg.png",
+		"head_model": "res://models/cogs/heads/yesman.glb",
+		"head_textures": [
+			"user://save/custom_cogs/Giygas.png"
+		],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "a20012ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 3.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 12,
+	"name_plural": "Giygases",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 8.0,
+	"suit": 0
+}

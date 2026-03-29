@@ -1,0 +1,44 @@
+{
+	"battle_phrases": [
+		"I'm not going to run away from you!",
+		"I...I'm not scared...You are!"
+	],
+	"cog_name": "Colin",
+	"custom_nametag_height": 8.9,
+	"custom_nametag_suffix": "Boss Cog",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pick_pocket.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/Changed/custom_suits/colin_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/Changed/custom_suits/colin_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/Changed/custom_suits/colin_leg.png",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/changed.png",
+		"head_model": "user://save/custom_cogs/colin.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/attentive.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/tenure_status.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/mod_cog_agile.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "f8fcf8ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 5.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 5.35,
+	"suit": 1
+}

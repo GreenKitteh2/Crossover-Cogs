@@ -1,0 +1,43 @@
+{
+	"battle_phrases": [
+		"I work for Vox...and...these guys.",
+		"Do I even have to wear this suit?",
+		"How bad could you be unlike the others with me."
+	],
+	"can_speak": true,
+	"cog_name": "Velvette",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/liquidate.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pick_pocket_money.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_tie.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres"
+		],
+		"baked_status_effects": [],
+		"custom_arm_tex": "res://models/cogs/textures/misc/sleeve_2.png",
+		"custom_blazer_tex": "res://models/cogs/textures/misc/blazer_1.png",
+		"custom_leg_tex": "res://models/cogs/textures/misc/leg_4.png",
+		"head_model": "user://save/custom_cogs/velvette.glb",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "6d4c5bff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(0.33, 0.33, 0.33)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 13,
+	"level_low": 6,
+	"name_plural": "Velvettes",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 5.3,
+	"suit": 1
+}

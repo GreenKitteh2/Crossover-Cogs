@@ -1,0 +1,43 @@
+{
+	"battle_phrases": [
+		"Isn't it late for you?",
+		"It's time to put you to sleep.",
+		"It's just a dream."
+	],
+	"can_speak": true,
+	"cog_name": "Astro",
+	"custom_nametag_height": 11.9,
+	"custom_nametag_suffix": "Omnipotent",
+	"department": 1,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/rubber_stamp.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/brain_storm.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/liquidate.tres"
+		],
+		"baked_status_effects": [],
+		"custom_arm_tex": "res://models/cogs/textures/slender/sleeve.png",
+		"custom_blazer_tex": "res://models/cogs/textures/slender/blazer.png",
+		"custom_leg_tex": "res://models/cogs/textures/slender/leg.png",
+		"head_model": "user://save/custom_cogs/Astro.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "aafffcff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 3.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 11,
+	"level_low": 8,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 3.5,
+	"suit": 1
+}

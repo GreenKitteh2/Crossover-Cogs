@@ -1,0 +1,48 @@
+{
+	"battle_phrases": [
+		"You don't look like a rubber duck. I should just throw you away.",
+		"Lilith didn't leave me just for this.",
+		"Are you mocking me?"
+	],
+	"can_speak": true,
+	"cog_name": "Lucifer",
+	"custom_nametag_height": 9.0,
+	"custom_nametag_suffix": "Boss Cog",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/tee_off.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/rolodex.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/clip_on_tie.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres"
+		],
+		"baked_status_effects": [],
+		"custom_arm_tex": "user://save/custom_cogs/Hazbin hotel + Helluva Boss/custom_suits/lucifer_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/Hazbin hotel + Helluva Boss/custom_suits/lucifer_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/Hazbin hotel + Helluva Boss/custom_suits/lucifer_leg.png",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/hazbin_hotel.png",
+		"head_model": "user://save/custom_cogs/lucifer.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/attentive.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/tenure_status.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/mod_cog_fire_sale.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "ffffffff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(0.51, 0.51, 0.51)",
+	"health_mod": 5.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 5.65,
+	"suit": 1
+}

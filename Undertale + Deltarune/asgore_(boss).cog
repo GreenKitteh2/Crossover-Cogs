@@ -1,0 +1,46 @@
+{
+	"battle_phrases": [
+		"Nice meeting you Toon, Goodbye.",
+		"I've destroy humans who come here, I will do the same for Toons like you."
+	],
+	"cog_name": "Asgore",
+	"custom_nametag_height": 9.8,
+	"custom_nametag_suffix": "Boss Cog",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/brain_storm.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/evil_eye.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/freeze_assets.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/guilt_trip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/Undertale + Deltarune/custom_suits/asgore_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/Undertale + Deltarune/custom_suits/asgore_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/Undertale + Deltarune/custom_suits/asgore_leg.png",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/undertale.png",
+		"head_model": "user://save/custom_cogs/asgore.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/attentive.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/tenure_status.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/mod_cog_fire_sale.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "ffffffff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 5.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 7.35,
+	"suit": 0
+}

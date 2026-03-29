@@ -1,0 +1,41 @@
+{
+	"battle_phrases": [
+		"I'm helping!",
+		"Can we be friends?",
+		"They're taking me on a tour!"
+	],
+	"can_speak": true,
+	"cog_name": "Toodles",
+	"custom_nametag_height": 11.2,
+	"custom_nametag_suffix": "",
+	"department": 0,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/pick_pocket_money.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_tie.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/clip_on_tie.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/half_windsor.tres"
+		],
+		"baked_status_effects": [],
+		"custom_arm_tex": "res://models/cogs/textures/misc/sleeve_2.png",
+		"custom_blazer_tex": "res://models/cogs/textures/misc/blazer_1.png",
+		"custom_leg_tex": "res://models/cogs/textures/misc/leg_4.png",
+		"head_model": "user://save/custom_cogs/Toodles.glb",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "474647ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 12,
+	"level_low": 2,
+	"name_plural": "Toodles",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 2.8,
+	"suit": 1
+}

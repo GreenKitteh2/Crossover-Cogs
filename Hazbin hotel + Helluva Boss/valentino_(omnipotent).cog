@@ -1,0 +1,46 @@
+{
+	"battle_phrases": [
+		"Why are people snippy with me.",
+		"Someone slapped me...I told somebody, AND THAT SAID SOMEONE SAID I WAS SEEING THINGS!",
+		"People are looking at me like I did something."
+	],
+	"can_speak": true,
+	"cog_name": "Valentino",
+	"custom_nametag_height": 8.6,
+	"custom_nametag_suffix": "Omnipotent",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/tee_off.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/razzle_dazzle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/guilt_trip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pick_pocket.tres"
+		],
+		"baked_status_effects": [],
+		"custom_arm_tex": "res://models/cogs/textures/slender/sleeve.png",
+		"custom_blazer_tex": "res://models/cogs/textures/slender/blazer.png",
+		"custom_leg_tex": "res://models/cogs/textures/slender/leg.png",
+		"head_model": "user://save/custom_cogs/valentino.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/mod_cog_fire_sale.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "000000ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(0.35, 0.35, 0.35)",
+	"health_mod": 3.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 20,
+	"level_low": 5,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 5.75,
+	"suit": 1
+}

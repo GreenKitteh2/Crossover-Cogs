@@ -1,0 +1,49 @@
+{
+	"battle_phrases": [
+		"!deppart m'I",
+		"!tuo teg ot tnaw I",
+		"!EM PLEH"
+	],
+	"can_speak": true,
+	"cog_name": "Twisted Blot",
+	"custom_nametag_height": 9.7,
+	"custom_nametag_suffix": "Boss Cog",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/guilt_trip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pink_slip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pick_pocket.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/Dandy's World/custom_suits/twisted_blot_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/Dandy's World/custom_suits/twisted_blot_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/Dandy's World/custom_suits/twisted_blot_leg.png",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/dandys_world.png",
+		"head_model": "user://save/custom_cogs/Twisted Blot.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/attentive.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/tenure_status.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "000000ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(0.77, 0.77, 0.77)",
+	"health_mod": 5.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 20,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 4.5,
+	"suit": 1
+}

@@ -1,0 +1,48 @@
+{
+	"battle_phrases": [
+		"...",
+		"*ROAAAAAAAAAAAAAAAAAAAR*"
+	],
+	"can_speak": true,
+	"cog_name": "The Roaring Knight",
+	"custom_nametag_height": 9.5,
+	"custom_nametag_suffix": "",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/shake.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/tremor.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/quake.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/sink_hole.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"custom_arm_tex": "res://models/cogs/textures/slender/sleeve.png",
+		"custom_blazer_tex": "res://models/cogs/textures/slender/blazer.png",
+		"custom_leg_tex": "res://models/cogs/textures/slender/leg.png",
+		"head_model": "user://save/custom_cogs/roaring knight.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "000000ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(0.49, 0.49, 0.49)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 9,
+	"level_low": 8,
+	"name_plural": "",
+	"name_prefix": "The Roaring",
+	"name_suffix": " Knight",
+	"scale": 5.7,
+	"suit": 1
+}

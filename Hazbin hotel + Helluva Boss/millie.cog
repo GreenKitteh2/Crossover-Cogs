@@ -1,0 +1,36 @@
+{
+	"battle_phrases": [
+		"You must be the toon, Target practice!",
+		"I was about to look for you myself but here you are!"
+	],
+	"cog_name": "Millie",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pound_key.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/shake.tres"
+		],
+		"custom_arm_tex": "res://models/cogs/textures/misc/sleeve_2.png",
+		"custom_blazer_tex": "res://models/cogs/textures/misc/blazer_1.png",
+		"custom_leg_tex": "res://models/cogs/textures/misc/leg_4.png",
+		"head_model": "user://save/custom_cogs/millie.glb",
+		"head_textures": []
+	},
+	"hand_color": "f3454dff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 8,
+	"level_low": 3,
+	"name_plural": "",
+	"scale": 5.4,
+	"suit": 1
+}

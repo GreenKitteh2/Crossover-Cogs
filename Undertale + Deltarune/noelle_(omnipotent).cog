@@ -1,0 +1,43 @@
+{
+	"battle_phrases": [
+		"I hope susie is here to see this...",
+		"Is it cold here or is that just...it's just me...",
+		"Y...You want me to proceed?"
+	],
+	"can_speak": true,
+	"cog_name": "Noelle",
+	"custom_nametag_height": 9.1,
+	"custom_nametag_suffix": "Omnipotent",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/guilt_trip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/freeze_assets.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres"
+		],
+		"baked_status_effects": [],
+		"custom_arm_tex": "res://models/cogs/textures/slender/sleeve.png",
+		"custom_blazer_tex": "res://models/cogs/textures/slender/blazer.png",
+		"custom_leg_tex": "res://models/cogs/textures/slender/leg.png",
+		"head_model": "user://save/custom_cogs/noelle.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/mod_cog_witness_protection.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "dc8998ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(0.4, 0.4, 0.4)",
+	"health_mod": 3.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 14,
+	"level_low": 7,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 4.45,
+	"suit": 1
+}

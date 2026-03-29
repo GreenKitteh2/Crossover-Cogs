@@ -1,0 +1,47 @@
+{
+	"battle_phrases": [
+		"At least it's more entertaining than being a bartender.",
+		"I can't believe I have to face you with these strangers.",
+		"I'm being forced to work...again."
+	],
+	"can_speak": true,
+	"cog_name": "Husk",
+	"custom_nametag_height": 9.6,
+	"custom_nametag_suffix": "Boss Cog",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/clip_on_tie.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres"
+		],
+		"baked_status_effects": [],
+		"custom_arm_tex": "user://save/custom_cogs/Hazbin hotel + Helluva Boss/custom_suits/husk_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/Hazbin hotel + Helluva Boss/custom_suits/husk_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/Hazbin hotel + Helluva Boss/custom_suits/husk_leg.png",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/hazbin_hotel.png",
+		"head_model": "user://save/custom_cogs/husk.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/attentive.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/tenure_status.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/mod_cog_fire_sale.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "ffffffff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(0.5, 0.5, 0.5)",
+	"health_mod": 5.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 5.6,
+	"suit": 1
+}

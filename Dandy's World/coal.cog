@@ -1,0 +1,42 @@
+{
+	"battle_phrases": [
+		"Bworf!",
+		"Grrrrr!",
+		"Bork!"
+	],
+	"can_speak": true,
+	"cog_name": "Coal",
+	"custom_nametag_height": 8.4,
+	"custom_nametag_suffix": "",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_tie.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/evil_eye.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/rubber_stamp.tres"
+		],
+		"baked_status_effects": [],
+		"custom_arm_tex": "res://models/cogs/textures/misc/sleeve_2.png",
+		"custom_blazer_tex": "res://models/cogs/textures/misc/blazer_1.png",
+		"custom_leg_tex": "res://models/cogs/textures/misc/leg_4.png",
+		"head_model": "user://save/custom_cogs/Coal.glb",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "4a4e4cff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(0.45, 0.45, 0.45)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 12,
+	"level_low": 3,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 3.8,
+	"suit": 2
+}

@@ -1,0 +1,38 @@
+{
+	"battle_phrases": [
+		"Escaped a game only to be here...great.",
+		"You don't want to see me lose it, trust me buddy."
+	],
+	"cog_name": "Senpai",
+	"custom_nametag_height": 9.6,
+	"custom_nametag_suffix": "",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/shake.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/rolodex.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pick_pocket.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_tie.tres"
+		],
+		"custom_arm_tex": "res://models/cogs/textures/misc/sleeve_2.png",
+		"custom_blazer_tex": "res://models/cogs/textures/misc/blazer_1.png",
+		"custom_leg_tex": "res://models/cogs/textures/misc/leg_4.png",
+		"head_model": "user://save/custom_cogs/senpai.glb",
+		"head_textures": []
+	},
+	"hand_color": "f8e7d3ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 12,
+	"level_low": 4,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 5.6,
+	"suit": 1
+}

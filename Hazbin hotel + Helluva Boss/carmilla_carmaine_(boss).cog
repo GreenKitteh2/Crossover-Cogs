@@ -1,0 +1,49 @@
+{
+	"battle_phrases": [
+		"I heard about toon extermination, you should be made an example.",
+		"I'll might just imagine you as a Exorcist.",
+		"Your fighting style is strange."
+	],
+	"can_speak": true,
+	"cog_name": "Carmilla Carmaine",
+	"custom_nametag_height": 8.0,
+	"custom_nametag_suffix": "Boss Cog",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/evil_eye.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/liquidate.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres"
+		],
+		"baked_status_effects": [],
+		"custom_arm_tex": "user://save/custom_cogs/Hazbin hotel + Helluva Boss/custom_suits/carmilla_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/Hazbin hotel + Helluva Boss/custom_suits/carmilla_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/Hazbin hotel + Helluva Boss/custom_suits/carmilla_leg.png",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/hazbin_hotel.png",
+		"head_model": "user://save/custom_cogs/carmilla carmaine.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/attentive.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/tenure_status.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/mod_cog_fire_sale.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "e4dbd5ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(0.5, 0.5, 0.5)",
+	"health_mod": 5.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 20,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "Carmilla",
+	"name_suffix": "Carmaine",
+	"scale": 5.7,
+	"suit": 1
+}

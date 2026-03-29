@@ -1,0 +1,40 @@
+{
+	"battle_phrases": [
+		"I'm in a strange world!",
+		"Am I supposed to fight you?"
+	],
+	"cog_name": "Pomni",
+	"custom_nametag_height": 9.6,
+	"custom_nametag_suffix": "",
+	"department": 0,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/brain_storm.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/clip_on_tie.tres"
+		],
+		"custom_arm_tex": "res://models/cogs/textures/clown/sleeveClown.png",
+		"custom_blazer_tex": "res://models/cogs/textures/clown/blazerClown.png",
+		"custom_leg_tex": "res://models/cogs/textures/clown/sleeveClown.png",
+		"head_model": "user://save/custom_cogs/Pomni.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "ff2a2aff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 11,
+	"level_low": 5,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 5.1,
+	"suit": 1
+}

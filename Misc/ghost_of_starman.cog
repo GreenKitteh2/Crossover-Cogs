@@ -1,0 +1,46 @@
+{
+	"battle_phrases": [
+		"I work for Giygas's army.",
+		"I have affiliations with a certain skeleton.",
+		"We're here to help OUR future."
+	],
+	"can_speak": true,
+	"cog_name": "Ghost of Starman",
+	"custom_nametag_height": 9.2,
+	"custom_nametag_suffix": "Minion",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/tee_off.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/rubber_stamp.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/brain_storm.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/razzle_dazzle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres"
+		],
+		"baked_status_effects": [],
+		"custom_arm_tex": "user://save/custom_cogs/Misc/custom_suits/ghoststarman_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/Misc/custom_suits/ghoststarman_blazer.png",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/earthbound.png",
+		"custom_leg_tex": "user://save/custom_cogs/Misc/custom_suits/ghoststarman_leg.png",
+		"head_model": "user://save/custom_cogs/starman.glb",
+		"head_textures": [
+			"user://save/custom_cogs/ghost starman face.png"
+		],
+		"status_effects": []
+	},
+	"hand_color": "040404ff",
+	"head_color": "ff006eff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(0.72, 0.72, 0.72)",
+	"health_mod": 1.5,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 10,
+	"level_low": 7,
+	"name_plural": "Ghost of Starmen",
+	"name_prefix": "Ghost of",
+	"name_suffix": "Starman",
+	"scale": 5.2,
+	"suit": 0
+}

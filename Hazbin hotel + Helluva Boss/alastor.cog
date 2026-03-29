@@ -1,0 +1,41 @@
+{
+	"battle_phrases": [
+		"I'm volunteering with my assosiates today.",
+		"Do I know you?",
+		"C.O.G.S. Inc. is on the radio folks!"
+	],
+	"can_speak": true,
+	"cog_name": "Alastor",
+	"custom_nametag_height": 11.0,
+	"custom_nametag_suffix": "",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/write_off.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pick_pocket_money.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres"
+		],
+		"baked_status_effects": [],
+		"custom_arm_tex": "res://models/cogs/textures/misc/sleeve_2.png",
+		"custom_blazer_tex": "res://models/cogs/textures/misc/blazer_1.png",
+		"custom_leg_tex": "res://models/cogs/textures/misc/leg_4.png",
+		"head_model": "user://save/custom_cogs/Alastor.glb",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "fbd1b2ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(0.44, 0.44, 0.44)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 12,
+	"level_low": 8,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 6.5,
+	"suit": 1
+}

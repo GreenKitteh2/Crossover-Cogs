@@ -1,0 +1,35 @@
+{
+	"battle_phrases": [
+		"Please don't be too hostile with me...",
+		"You're going to hate me for this..."
+	],
+	"cog_name": "Niko",
+	"custom_nametag_height": 9.4,
+	"custom_nametag_suffix": "",
+	"department": 0,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/liquidate.tres"
+		],
+		"custom_arm_tex": "res://models/cogs/textures/misc/sleeve_2.png",
+		"custom_blazer_tex": "res://models/cogs/textures/misc/blazer_1.png",
+		"custom_leg_tex": "res://models/cogs/textures/misc/leg_4.png",
+		"head_model": "user://save/custom_cogs/niko.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "c08883ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 10,
+	"level_low": 3,
+	"name_plural": "",
+	"scale": 4.9,
+	"suit": 1
+}

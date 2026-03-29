@@ -1,0 +1,52 @@
+{
+	"battle_phrases": [
+		"Where are my parents!",
+		"Mommy! Daddy!",
+		"I miss my parents!"
+	],
+	"can_speak": true,
+	"cog_name": "Twisted Gourdy",
+	"custom_nametag_height": 10.7,
+	"custom_nametag_suffix": "Boss Cog",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/quake.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/shake.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/tremor.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/guilt_trip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pick_pocket_money.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pick_pocket.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/Dandy's World/custom_suits/twisted_gourdy_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/Dandy's World/custom_suits/twisted_gourdy_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/Dandy's World/custom_suits/twisted_gourdy_leg.png",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/dandys_world.png",
+		"head_model": "user://save/custom_cogs/Twisted Gourdy.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/attentive.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/tenure_status.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "000000ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(0.75, 0.75, 0.75)",
+	"health_mod": 5.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 15,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 5.0,
+	"suit": 1
+}

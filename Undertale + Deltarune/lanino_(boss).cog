@@ -1,0 +1,48 @@
+{
+	"battle_phrases": [
+		"Sunny day for C.O.G.S. Inc.",
+		"It's my time to shine in this battle.",
+		"The weather sticks together with...these guys."
+	],
+	"can_speak": true,
+	"cog_name": "Lanino",
+	"custom_nametag_height": 10.4,
+	"custom_nametag_suffix": "Boss Cog",
+	"department": 0,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/rolodex.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/clip_on_tie.tres"
+		],
+		"baked_status_effects": [],
+		"custom_arm_tex": "user://save/custom_cogs/Undertale + Deltarune/custom_suits/lanino_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/Undertale + Deltarune/custom_suits/lanino_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/Undertale + Deltarune/custom_suits/lanino_leg.png",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/undertale.png",
+		"head_model": "user://save/custom_cogs/lanino.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/attentive.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/tenure_status.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/mod_cog_fire_sale.tres",
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "ffffffff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(0.48, 0.48, 0.48)",
+	"health_mod": 5.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "",
+	"name_suffix": "",
+	"scale": 4.7,
+	"suit": 1
+}

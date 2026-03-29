@@ -1,0 +1,40 @@
+{
+	"battle_phrases": [
+		"Oh, You're the Toon people are talking about.",
+		"You're going to get past me",
+		"Shocked to see i'm a rabbit?"
+	],
+	"cog_name": "Jax",
+	"custom_nametag_height": 11.2,
+	"custom_nametag_suffix": "",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/brain_storm.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pick_pocket.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/rolodex.tres"
+		],
+		"custom_arm_tex": "res://models/cogs/textures/misc/sleeve_2.png",
+		"custom_blazer_tex": "res://models/cogs/textures/misc/blazer_1.png",
+		"custom_leg_tex": "res://models/cogs/textures/misc/leg_4.png",
+		"head_model": "user://save/custom_cogs/Jax.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "8581a8ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 11,
+	"level_low": 6,
+	"name_plural": "",
+	"scale": 7.0,
+	"suit": 1
+}
